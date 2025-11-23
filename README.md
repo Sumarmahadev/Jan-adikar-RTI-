@@ -1,4 +1,4 @@
-# 🤖 Jan Adhikar RTI-AI — India’s Multilingual Voice-to-PDF RTI Generator
+# Jan Adhikar RTI-AI — India’s Multilingual Voice-to-PDF RTI Generator
 
 This project helps people in India file RTI (Right to Information) applications easily using WhatsApp.
 Many people speak local languages like Hindi, Marathi, Tamil, Telugu, etc., but the RTI office only accepts English letters.
@@ -16,7 +16,7 @@ This whole system works using multiple AI agents, each doing their own job step-
 
 ---
 
-## ✨ Project Highlights
+## Project Highlights
 
 - **Multi-Agent Workflow:** A three-agent system (Agent A → Agent C → Agent B) ensures highly reliable data extraction, validation, and document generation.  
 - **Long-Running Sessions:** Manages session state via a database, allowing users to pause, receive follow-up questions, and resume later.  
@@ -25,7 +25,7 @@ This whole system works using multiple AI agents, each doing their own job step-
 
 ---
 
-## 🚀 Architecture and Data Flow
+## Architecture and Data Flow
 
 - **User Input:** User sends a voice note or message on WhatsApp.  
 - **Webhook Trigger:** Twilio sends a webhook via Ngrok to the server.  
