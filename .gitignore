@@ -1,0 +1,6 @@
+.env
+runtime/rti_warrior.db
+runtime/*.mp3
+runtime/*.ogg
+runtime/*.pdf
+__pycache__/
